@@ -1,0 +1,297 @@
+@media (max-width: 768px) {
+	.sub-header {
+		display: none;
+	}
+
+}
+@media all and (min-width: 1800px) {
+.wcu-area {
+	padding: 338px 0 233px;
+}
+.video-area .video-thumb-wrap {
+	width: 70%;
+}
+.video-area .video-thumb-wrap .video-play-btn {
+	left: 64%;
+}
+}
+
+
+@media all and (max-width: 1199px) {
+	.video-area .video-thumb-wrap img {
+		height: auto;
+	}
+	.video-area .video-thumb-wrap {
+		width: 50%;
+		align-items: center;
+		display: flex;
+	}
+	.video-area .video-thumb-wrap .video-play-btn {
+		left: 59%;
+	}
+	.widget_subscribe .single-subscribe-inner input {
+		height: 55px;
+	}
+.single-about-wrap {
+	margin: 10px 0;
+	
+} 
+.fact-counter-area {
+	padding: 29px 25px 4px;
+	margin-bottom: -114px;
+}
+.single-fact-wrap h5 {
+	font-size: 20px;
+}
+.request-quote-inner .tab-content .tab-pane {
+	padding: 36px 40px 40px;
+}
+.quote-wrap {
+	padding: 21px 30px 30px;
+	margin-left: 0;
+}
+.quote-wrap p {
+	margin-bottom: 78px;
+	font-size: 14px;
+}
+.request-quote-inner .tab-content .tab-pane .single-check-list li {
+	width: 48%;
+	margin: 10px 0 !important;
+}
+.request-quote-inner .nav-pills .nav-item .nav-link {
+	height: 60px;
+	font-size: 14px;
+}}
+@media (max-width: 1199px){
+.featured-imagebox-service.style1 .featured-content {
+    background-color: #fff;
+    padding: 25px 20px 25px 25px;
+}}
+
+
+@media only screen and (max-width: 767px){
+	.testimonial-block-two .inner-box{
+		margin-left: 0;
+		margin-top: 75px;
+		padding: 100px 35px 40px;
+	}
+
+	.testimonial-block-two .image-box{
+		top: -75px;
+		left: 20px;
+	}
+
+	.testimonial-section-two .carousel-outer{
+		padding: 0;
+	}
+
+	.testimonial-block-two .inner-box:before{
+		top: auto;
+		bottom: 0;
+		width: 100%;
+		height: 4px;
+	}
+
+	.testimonial-block-two .content-box .icon{
+		right: 0;
+		bottom: 0;
+	}
+	.breadcrumb-area {
+		padding: 196px 0 110px;
+	}
+	.breadcrumb-area .page-title {
+		font-size: 52px;
+		line-height: initial;
+	}
+}
+
+@media (max-width: 767px) {
+	#section-1 .content-slider .slider .banner .banner-inner-wrapper {
+	  padding-top: 120px;
+	}
+	#section-1 .content-slider .slider .banner .banner-inner-wrapper h2 {
+	  font-size: 15px;
+	}
+	#section-1 .content-slider .slider .banner .banner-inner-wrapper h1 {
+	  font-size: 36px;
+	}
+	#section-1 .content-slider nav .controls label { 
+		width: 7% !important;
+	  }
+	  #section-1 .content-slider .slider .banner .banner-inner-wrapper h2 {
+		font-weight: 700;
+		font-family:  "Yantramanav", sans-serif;
+		font-size: 26px;
+		color: #fff;
+		margin-bottom: 20px;
+	  }
+	  #section-1 .content-slider .slider .banner .banner-inner-wrapper h1 {
+		font-size: 15px;
+		color: #fff;
+		font-weight: 700;
+		margin-bottom: 30px;
+	  }
+	 
+	}
+
+	@media (max-width: 992px) {
+
+		#section-1 .content-slider nav .controls label {
+		  width: 15%;
+		}
+
+		.featured-icon-box {
+			padding: 30px 30px 25px;
+		}
+		.wcu-area .img-1 {
+			display: none;
+		}
+		.wcu-area .img-2 {
+			display: none;
+		}
+		.footer-area .footer-top .single-footer-top:after {
+			display: none;
+		}
+		.footer-bottom-area p {
+			margin-bottom: 15px;
+		}
+		.service-details-wrap h2 {
+			font-weight: 700;
+			font-size: 20px;
+			line-height: 52px;
+			margin-top: 28px;
+			margin-bottom: 9px;
+		  }
+	}
+	@media only screen and (max-width: 991px){
+		.brocken-section {
+			padding: 60px 0;
+		}
+		.video-area .video-thumb-wrap {
+			width: 100%;
+			position: relative;
+			height: auto;
+		}
+		.video-area .video-thumb-wrap .video-play-btn {
+			left: 50%;
+		}
+
+		}
+
+	@media all and (max-width: 1199px) {
+	.section-title .title {
+		font-size: 36px;
+	}
+	.section-title .content.left-line {
+		padding-left: 36px;
+	}
+	
+	.feature-icon-box .featured-content .featured-title h3 {
+		font-size: 20px;
+	}
+	.footer-area .footer-top .single-footer-top .details p {
+		font-size: 13px;
+	}
+	.widget_subscribe .single-subscribe-inner input {
+		height: 55px;
+	}
+	}
+@media only screen and (max-width: 1199px){	
+	.news-block .content-box{
+		margin-right: 0;
+	}
+
+	.testimonial-section-two .carousel-outer{
+	padding: 0 15px;
+}
+}
+
+@media only screen and (max-width: 991px){
+	.section-title2 {
+	  margin-bottom: 20px;
+  }
+  .transport-services-section{
+    padding: 60px 0;
+}
+.sidebar-area {
+	margin-top: 40px;
+}
+  }
+
+@media all and (max-width: 991px) {
+.feature-slider .owl-nav {
+	display: none;
+}
+.wcu-area {
+	padding: 120px 0 120px;
+}
+.wcu-area .video-thumb-wrap {
+	margin-bottom: 50px;
+}
+.fact-counter-area {
+	margin-bottom: 0;
+	transform: none;
+	margin-top: 120px;
+}
+
+.quote-wrap {
+	margin-top: 40px;
+}}
+
+@media all and (max-width: 375px) {
+.section-title .title {
+	font-size: 29px;
+}
+.feature-area {
+	padding: 20px;
+}
+.feature-icon-box .featured-content .featured-title h3{
+	font-size: 19px;
+}
+.request-quote-inner .nav-pills .nav-item {
+	width: 100%;
+}
+.request-quote-inner .tab-content .tab-pane .single-check-list li {
+	width: 100%;
+}
+.quote-wrap p {
+	margin-bottom: 38px;
+}}
+@media(max-width: 767.98px) {
+	.faqs .row::after {
+		display: none;
+	}
+	
+	.faqs #accordion-1,
+	.faqs #accordion-2 {
+		padding: 0;
+	}
+	
+	.faqs #accordion-2 {
+		padding-top: 15px;
+	}
+  }
+@media all and (max-width: 425px) {
+
+	.section-title .content.left-line {
+		padding-left: 20px;
+	}
+	.section-title .title {
+		font-size: 32px;
+	}
+	.wcu-area .img-2 {
+		display: none;
+	}
+	.breadcrumb-area .page-title {
+		font-size: 48px;
+	}
+	.request-quote-inner .tab-content .tab-pane {
+		padding: 26px 20px 20px;
+	}}
+
+	@media all and (max-width: 320px) {
+
+		.quote-wrap {
+			padding: 21px 20px 25px;
+		}
+	}
